@@ -44,5 +44,5 @@ Not sure if this is required for use, maybe development only
 1. Install APSO `apt install libreoffice-script-provider-python`
 2. Make directory for the python scripts to be located `~/.config/libreoffice4/user/Scripts/python`
    1. Open Libreoffice and add this location
-      1. Tools>Options>
+      1. Tools > Macros > Organize Macros > Organizer > Add Library
 ----
