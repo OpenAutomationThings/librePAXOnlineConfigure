@@ -49,5 +49,5 @@ Not sure if this is required for use, maybe development only
 
 # Credit
 I couldn't make anything like this if it wasnt for Free Open Source Software (FOSS). I owe much of my career to the resources found online from the thousands of people who share their knowledge and passion.
-Please pay it forward and release anything you make, for free, forever. Donate to FOSS projecst you enjoy, be kind to the people who make things, don't expect that they can answer all your complaints. These are passion projects for most people
+Please pay it forward and release anything you make, for free, forever. Donate to FOSS projecst you enjoy, be kind to the people who make things, don't expect that they can answer all your complaints. These are passion projects for most people. And document it!
 
