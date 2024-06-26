@@ -34,18 +34,13 @@ This was built and tested with the following, no idea if it will work in the pas
    1. Recommend testing pycomm3 works prior to trying the Spreadsheet
 3. Install libreoffice
 4. Open LibreOffice Calc
-5. Navigate to the tab for the PAX object you want to read
-6. Click 'Find Tags'
-7. Click 'Read Tags'
-8. Make changes to calues
-9. Click 'Write Tags'
----
-Not sure if this is required for use, maybe development only
-1. Install APSO `apt install libreoffice-script-provider-python`
-2. Make directory for the python scripts to be located `~/.config/libreoffice4/user/Scripts/python`
-   1. Open Libreoffice and add this location
-      1. Tools > Macros > Organize Macros > Organizer > Add Library
-----
+5. Grab the .ods file from this repo (py file for reference only)
+6. Navigate to the tab for the PAX object you want to read
+7. Click 'Find Tags'
+8. Click 'Read Tags'
+9. Make changes to calues
+10. Click 'Write Tags'
+
 
 # Credit
 I couldn't make anything like this if it wasnt for Free Open Source Software (FOSS). I owe much of my career to the resources found online from the thousands of people who share their knowledge and passion.
