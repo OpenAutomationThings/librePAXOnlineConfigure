@@ -1,5 +1,5 @@
 # What Is This For?
-A tool used for communicating with an Allen Bradley/Rockwell ControlLogix PLC to read and write tag values for their PlantPAX Library.
+A tool used for communicating with an Allen Bradley/Rockwell ControlLogix PLC to read and write tag values for their PlantPAX Library. Anyone who has had to make massive changes to descriptions, alarm limits, configs, etc knows that doing it by hand on the HMI, or exporting and importing offline is a waste of time. 
 
 # Disclaimer
 I am not responsible for anything bad that happens as a result of your use of this. You work in controls and automation, you should know this by now. 
