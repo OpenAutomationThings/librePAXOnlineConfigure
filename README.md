@@ -38,7 +38,7 @@ I only tested this on some the basic PAX blocks, like P_AIn.YMMV
    1. Recommend testing pycomm3 works prior to trying the Spreadsheet
 3. Install libreoffice
 4. Open LibreOffice Calc
-5. Grab the .ods file from this repo (py file for reference only)
+5. Grab the .ods file from this repo (py script file is for reference only)
 6. Navigate to the tab for the PAX object you want to read
 7. Click 'Find Tags'
 8. Click 'Read Tags'
@@ -48,5 +48,5 @@ I only tested this on some the basic PAX blocks, like P_AIn.YMMV
 
 # Credit
 I couldn't make anything like this if it wasnt for Free Open Source Software (FOSS). I owe much of my career to the resources found online from the thousands of people who share their knowledge and passion.
-Please pay it forward and release anything you make, for free, forever. Donate to FOSS projecst you enjoy, be kind to the people who make things, don't expect that they can answer all your complaints. These are passion projects for most people. And document it!
+Please pay it forward and release anything you make, for free, forever. Donate to FOSS projects you enjoy, be kind to the people who make things, don't expect that they can answer all your complaints. These are passion projects for most people. And document it!
 
