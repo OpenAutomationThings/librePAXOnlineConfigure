@@ -12,7 +12,7 @@ I am not responsible for anything bad that happens as a result of your use of th
 The Excel based PlantPAX Online Configure Tool provided by Rockwell only works if you have a PAID license for RSLinx Enterprise (or FactoryTalk Gateway) to use the OPC/DDE connections. 
 
 # How does it work?
-It uses LibreOffice's scripting environment to call some python scripts that use a well written python driver/library ([pycomm3](https://docs.pycomm3.dev/en/latest/))that interacts with the processor. 
+It uses LibreOffice's scripting environment to call some python scripts that use a well written python driver/library ([pycomm3](https://docs.pycomm3.dev/en/latest/)) that interacts with the processor. 
 
 ## How well does it work?
 Pretty well! It's a bit slow with the massive number of parameters and can cause Libreoffice to hang, but it still seems to read/write correctly. If you hit wait, it still seems to finish correctly.  
